@@ -1,0 +1,30 @@
+Navbar 
+1- Navbar reference code with harry se hai
+2- dropdown mwnu gfg se
+3- add a theme dark/light 
+4- login/signup
+5- logo 
+6- links 
+       ( home, courses, Blog, Cheatsheet, About us )
+
+Home page body
+body divide in two parts
+1- Left sidebar 
+              ( Chapter topics )
+2- Right section 
+              ( chapter topic description 
+                   At the end quiz button with login and signup page
+                )
+
+4- what authors section 
+                     ( authors thought )
+5- footer
+        ( 
+         Get know us        Work with us              Contact us
+         all navbar link    As a teacher,             socail media icons
+                            As a designer
+			    As a web developer
+			    Content creator
+			    Social media manager
+
+6- Copyright reserved
